@@ -19,4 +19,5 @@ async function getProductLabel(productName) {
 module.exports = {
   getFullName,
   getProductLabel,
+  productType,
 }
